@@ -844,4 +844,4 @@ img::-moz-selection {
     background: 0 0
 }
 
-.logo img {width: 200px; }
+.logo { width: 200px; }
