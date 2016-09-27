@@ -843,3 +843,5 @@ img::selection {
 img::-moz-selection {
     background: 0 0
 }
+
+.logo img {width: 200px; }
