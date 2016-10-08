@@ -229,7 +229,8 @@ fieldset[disabled] .btn-xl:hover {
 .aboutcontent h2  { color: white;}
 .aboutcontent h3   { font-size: 24px; color: #00b6c0!Important; margin-top: 10px; }
 
-
+.comcontent {padding: 100px 0;}
+.servcont {padding:100px 0;}
 
 @media (min-width:768px) {
     .navbar-custom {
@@ -637,10 +638,8 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat
+    background-color: #00aab4;
+    padding: 150px 0;
 }
 
 section#contact .section-heading {
