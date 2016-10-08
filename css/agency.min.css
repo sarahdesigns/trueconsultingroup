@@ -231,8 +231,8 @@ fieldset[disabled] .btn-xl:hover {
 
 .comcontent {padding: 100px 0;}
 .servcont {padding:100px 0;}
-.details {text-align:left; border-left: 2px solid blue; padding-left:30px;}
-.erbi {text-align:right;}
+.details {text-align:left; border-left: 3px solid #333333; padding-left:30px;}
+.erbi {text-align:right; padding-right: 31px;}
 .contactsect h2 {padding-bottom:40px;}
 
 @media (min-width:768px) {
