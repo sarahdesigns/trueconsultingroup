@@ -224,7 +224,7 @@ fieldset[disabled] .btn-xl:hover {
     background-color: #fec503
 }
 
-.aboutcontent { background: #8a8c8b; }
+.aboutcontent { background: #8a8c8b; padding: 50px 0; }
 .aboutcontent p { font-size: 14px;line-height: 1.75; color: white; }
 .aboutcontent h2  { color: white;}
 .aboutcontent h3   { font-size: 24px; color: #00b6c0!Important; margin-top: 10px; }
