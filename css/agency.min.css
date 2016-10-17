@@ -121,11 +121,11 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-xl {
     color: #fff;
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: #38508f;
+    border-color: #38508f;
     border-radius: 3px;
-    font-size: 18px;
-    padding: 20px 40px
+    font-size: 14px;
+    padding: 20px 30px
 }
 
 .btn-xl.active,
@@ -272,7 +272,7 @@ fieldset[disabled] .btn-xl:hover {
 }
 
 header {
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/Background2.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
