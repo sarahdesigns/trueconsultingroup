@@ -40,7 +40,7 @@ h6 {
 
 .text-primary,
 a {
-    color: #fed136
+    color: #3558a7;
 }
 
 p {
@@ -230,10 +230,16 @@ fieldset[disabled] .btn-xl:hover {
 .aboutcontent h3   { font-size: 24px; color: #3558a7!Important; margin-top: 10px; }
 
 .comcontent {padding: 100px 0;}
+.comcontent h2 {text-align:center; padding-bottom:30px;}
+.comcontent h5 {color:#7b7777;}
 .servcont {padding:100px 0;}
 .details {text-align:left; border-left: 3px solid #333333; padding-left:30px;}
 .erbi {text-align:right; padding-right: 31px;}
-.contactsect h2 {padding-bottom:40px;}
+.contactsect h2 {padding-bottom:40px; color:white;}
+.contactsect h4 {color:white;}
+.contactsect p {color:white;}
+
+.servlead {margin-top:30px;}
 
 @media (min-width:768px) {
     .navbar-custom {
@@ -641,7 +647,7 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #00aab4;
+    background-color: #171818;
     padding: 150px 0;
 }
 
