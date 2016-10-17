@@ -182,7 +182,7 @@ fieldset[disabled] .btn-xl:hover {
 .navbar-custom .nav li a,
 .navbar-custom .navbar-toggle {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #777878;
+    color: white;
     text-transform: uppercase
 }
 
@@ -208,14 +208,14 @@ fieldset[disabled] .btn-xl:hover {
 
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:hover {
-    color: #fed136;
+    color: #3558a7;
     outline: 0
 }
 
 .navbar-custom .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #fed136
+    background-color: #3558a7;
 }
 
 .navbar-custom .navbar-nav>.active>a:focus,
@@ -246,7 +246,7 @@ fieldset[disabled] .btn-xl:hover {
 
 @media (min-width:768px) {
     .navbar-custom {
-        background-color: white;
+        background-color: #171818;
         padding: 10px 0;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
