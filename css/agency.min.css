@@ -231,13 +231,16 @@ fieldset[disabled] .btn-xl:hover {
 
 .comcontent {padding: 100px 0;}
 .comcontent h2 {text-align:center; padding-bottom:30px;}
-.comcontent h5 {color:#7b7777;}
+.comcontent h5 {color:#8c8989;}
 .servcont {padding:100px 0;}
 .details {text-align:left; border-left: 3px solid #333333; padding-left:30px;}
 .erbi {text-align:right; padding-right: 31px;}
 .contactsect h2 {padding-bottom:40px; color:white;}
 .contactsect h4 {color:white;}
 .contactsect p {color:white;}
+.contactsect h5 {color:#8c8989;}
+.contactsect h3 {color:#8c8989;}
+.erbi {padding-top:30px;}
 
 .servlead {margin-top:30px;}
 
