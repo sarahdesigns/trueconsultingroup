@@ -650,9 +650,7 @@ footer ul.quicklinks {
 .deskonly{ display:none; }
 .navedit {padding-top:0!important; }
 .servcont { padding: 45px 0; }
-}
 
-@media (max-width:414px) {
 header .intro-text .intro-heading {
 	font-size: 46px;
     line-height: 50px;
@@ -667,6 +665,10 @@ header .intro-text .intro-lead-in {
 	}
 	
 .btn-xl {    padding: 10px 30px;}
+}
+
+@media (max-width:414px) {
+
 
 .comcontent {
     padding: 40px 0; }
