@@ -641,15 +641,35 @@ footer ul.quicklinks {
 @media (max-width:767px) {
 	.erbi {
     padding-top: 30px;
-    text-align: left!important; }
+    text-align: center!important;
+    padding-right: 0; }
 	
 	.details {
-    text-align: left;
+    text-align: center;
     border-left: none;
-    padding-left: 15px; }
+    padding-left: 0px; }
 .deskonly{ display:none; }
 .navedit {padding-top:0!important; }
 }
+
+@media (max-width:414px) {
+header .intro-text .intro-heading {
+	font-size: 46px;
+    line-height: 50px;
+    margin-bottom: 25px;}
+
+header .intro-text {
+    padding-top: 168px;
+    padding-bottom: 49px; }
+
+header .intro-text .intro-lead-in {
+	 margin-bottom: 10px;
+	}
+	
+
+	
+}
+
 
 .team-member {
     text-align: center;
