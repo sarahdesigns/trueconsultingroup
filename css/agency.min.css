@@ -636,7 +636,7 @@ footer ul.quicklinks {
 .servlead { margin-top: 20px; margin-bottom: 39px; }
 .erbi {
     padding-top: 30px;
-    text-align: left; }
+    text-align: left!important; }
 	
 	.details {
     text-align: left;
