@@ -627,11 +627,11 @@ footer ul.quicklinks {
 
 
 @media (min-width:768px) {
-.deskonly {display:none;}
+.mobionly  {display:none;}
 }
 
 @media (max-width:767px) {
-.mobionly { display:none; }
+.deskonly{ display:none; }
 }
 
 .team-member {
