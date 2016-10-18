@@ -632,7 +632,6 @@ footer ul.quicklinks {
 
 @media (min-width:768px) {
 .mobionly  {display:none;}
-.servcont { padding: 45px 0; }
 .servlead { margin-top: 20px; margin-bottom: 39px; }
 
 
@@ -650,6 +649,7 @@ footer ul.quicklinks {
     padding-left: 0px; }
 .deskonly{ display:none; }
 .navedit {padding-top:0!important; }
+.servcont { padding: 45px 0; }
 }
 
 @media (max-width:414px) {
