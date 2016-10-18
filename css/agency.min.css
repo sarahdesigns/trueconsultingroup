@@ -666,6 +666,14 @@ header .intro-text .intro-lead-in {
 	 margin-bottom: 10px;
 	}
 	
+.btn-xl {    padding: 10px 30px;}
+
+.comcontent {
+    padding: 40px 0; }
+
+section#contact {
+    background-color: #171818;
+    padding: 66px 0; }
 
 	
 }
