@@ -632,11 +632,12 @@ footer ul.quicklinks {
 
 @media (min-width:768px) {
 .mobionly  {display:none;}
-.navedit {padding-top:0!important; }
+
 }
 
 @media (max-width:767px) {
 .deskonly{ display:none; }
+.navedit {padding-top:0!important; }
 }
 
 .team-member {
