@@ -626,12 +626,12 @@ footer ul.quicklinks {
 }
 
 
-@media (max-width:768px) {
+@media (min-width:768px) {
 .deskonly {display:none;}
 }
 
-@media (min-width:767px) {
-.mobionly {display:none;}
+@media (max-width:767px) {
+.mobionly { display:none; }
 }
 
 .team-member {
